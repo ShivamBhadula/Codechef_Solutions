@@ -3,6 +3,7 @@ try:
         n=int(input())
         l1=list(map(int,input().split()))
         a=sum(l1)*2
+        # (a-n//2)%n==0
         if a%n==0 and (a//n)%2==1:
             print("Yes")
         else:
