@@ -39,6 +39,7 @@ int main()
         }
         cout<<sum<<endl;
         l.clear();
+//         
     }
     return 0;
 }
