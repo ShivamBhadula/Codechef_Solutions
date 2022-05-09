@@ -1,5 +1,4 @@
 
-//ARRFILL
 
 #include <bits/stdc++.h>
 #include <bits/stdc++.h>
@@ -40,6 +39,7 @@ int main()
         }
         cout<<sum<<endl;
         l.clear();
+//         
     }
     return 0;
 }
