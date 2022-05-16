@@ -28,7 +28,7 @@ try:
             if cur==temp:
                 ans-=1
                 cur=(1<<30)-1
-        print(ans)
+        show_output(ans)
 
 
     if __name__=="__main__":
