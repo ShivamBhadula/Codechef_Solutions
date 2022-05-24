@@ -18,6 +18,7 @@ def show_output(val): stdout.write(str(val)+'\n')
 mod=1000000007
 
 
+
 try:
 
 

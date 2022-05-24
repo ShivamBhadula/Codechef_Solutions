@@ -15,6 +15,7 @@ def get_2int(a): return [int(stdin.readline().strip().split()) for i in range(a)
 def show_output(val): stdout.write(str(val)+'\n')
 
 
+
 try:
 
 

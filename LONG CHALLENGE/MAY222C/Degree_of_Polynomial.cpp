@@ -4,6 +4,7 @@
 #define r(i,n) for(int i=n-1;i>0;i--)
 using namespace std;
 
+
 void solve()
 {
    ll n;
