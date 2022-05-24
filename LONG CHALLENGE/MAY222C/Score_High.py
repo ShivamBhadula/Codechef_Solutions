@@ -5,6 +5,7 @@ import heapq
 from bisect import bisect_left,bisect_right
 
 
+
 def get_abcd(): return map(int, stdin.readline().strip().split())
 def get_input(): return stdin.readline().strip()
 def get_list(): return list(map(int, stdin.readline().strip().split()))
